@@ -1,5 +1,8 @@
 # CodeCampsGraven
 
+Membre du groupe : Sasees_A, Vitte_C, Bernar_M , Bonhom_J , Bonhou_Q
+
+
 RogueLike Mobile Game
 
 > Quel était le but de ce CodeCamp et de ce sujet ?
