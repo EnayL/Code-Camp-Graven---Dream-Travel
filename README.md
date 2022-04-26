@@ -16,9 +16,9 @@ Nous avions pour objectif de créer un RogueLike sur mobile, pouvant se défaire
 ![](https://cdn.discordapp.com/attachments/920687736049008640/953033402972524575/Capture_decran_2022-03-14_a_21.54.24.png)
 # Le concept du jeu :
 
-Le Concept du jeu est l'histoire d'un petit garçon appelé Charly, qui dès lors qu'il vas se coucher, se retrouve perdu dans c'est rêve du moins c'est cauchemars, il doit alors se battre contre c'est plus grandes peur sous différente représentation et salle représentant chacune de c'est plus grande peur, afin de peut être pouvoir se réveiller.
+Le Concept du jeu est l'histoire d'un petit garçon appelé Charly, qui dès qu'il va se coucher, se retrouve perdu dans ses rêves, où du moins ses cauchemars, il doit alors se battre contre ses plus grandes peurs sous différentes représentations et salles, afin de peut être pouvoir se réveiller.
 
-# Fonctionnalité mise à disposition du joueur :
+# Fonctionnalités mises à disposition du joueur :
 
 - Déplacement haut, bas, gauche, droite (Sprites différents du héro selon son déplacement).
 
